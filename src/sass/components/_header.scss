@@ -1,5 +1,5 @@
 div.search-location__slider-list-item {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .input-box {
@@ -31,7 +31,7 @@ div.search-location__slider-list-item {
     border: none;
     padding: 0;
     padding-left: 34px;
-    color: black;
+    color: rgb(0, 5, 231);
     font-size: 14px;
     font-weight: 400;
     width: 75%;
@@ -183,10 +183,9 @@ div.search-location__slider-list-item {
 }
 
 @media (min-width: 768px) {
-
   .left {
     margin-right: 10px;
-}
+  }
 
   .right {
     margin-left: 6px;
