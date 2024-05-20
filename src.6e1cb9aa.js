@@ -66,4 +66,4 @@ const e=document.getElementById("oneday"),d=document.querySelector(".date"),t=do
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/base/apiService.js"),require("./js/base/helper.js"),require("./js/header.js"),require("./js/calendar.js"),require("./js/buttons.js"),require("./js/oneDay.js"),require("./js/fiveDays.js"),require("./js/moreInfo.js"),require("./js/chart.js"),require("./js/components/bg-service.js"),require("./js/components/quotes.js");
 },{"./sass/main.scss":"clu1","./js/base/apiService.js":"Xu0q","./js/base/helper.js":"sFyP","./js/header.js":"cGsR","./js/calendar.js":"qLPT","./js/buttons.js":"vKoR","./js/oneDay.js":"svWi","./js/fiveDays.js":"x3ny","./js/moreInfo.js":"OJ0Y","./js/chart.js":"TEwb","./js/components/bg-service.js":"dCpN","./js/components/quotes.js":"n8OK"}]},{},["Focm"], null)
-//# sourceMappingURL=/Weather-app-project/src.3206cf88.js.map
+//# sourceMappingURL=/Weather-app-project/src.6e1cb9aa.js.map
