@@ -2,7 +2,7 @@
   "url": "https://api.openweathermap.org/data/2.5/",
   "apiKey": "5e48aa6260a74fa96340060fc6167ae6",
   "bgIconUrl": "https://pixabay.com/api/?image_type=photo&orientation=horizontal&q=",
-  "bgKeyImg": "21692069-20428e2069b68a036394e4dd0",
+  "bgKeyImg": "43679762-df4b6b87cc26b153d88f5105",
   "units": "metric",
   "metric": "celsius"
 }
